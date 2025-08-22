@@ -1,6 +1,6 @@
 # 👋 Hi, I'm P. Thrisha
 
-🎓 **B.Tech 2nd Year** in **Computer Science & Engineering** at **CBIT**  
+🎓 **B.Tech 3rd Year** in **Computer Science & Engineering** at **CBIT**  
 💡 Passionate about technology, coding, and learning new things every day.
 
 ---
