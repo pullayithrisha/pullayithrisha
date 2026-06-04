@@ -1,67 +1,128 @@
-<h1 align="center">Hi 👋, I'm P. Thrisha</h1>
-<h3 align="center">B.Tech CSE Student | Java Developer | Web Developer | Aspiring Software Engineer</h3>
+<h1 align="center">Hi 👋, I'm Pullayi Thrisha</h1>
+<h3 align="center">B.Tech CSE Student | Java Developer | Web Developer | AI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <a href="https://github.com/pullayithrisha">
+    <img src="https://komarev.com/ghpvc/?username=pullayithrisha&label=Profile%20Views&color=0e75b6&style=flat" />
+  </a>
 </p>
+
+---
 
 ## 🚀 About Me
 
-- 🎓 B.Tech 3rd Year CSE Student
-- 📍 From Nirmal, Telangana, India
-- 💻 Passionate about Software Development and Problem Solving
-- 🌱 Currently learning Data Structures & Algorithms in Java
-- 🤖 Exploring AI, OCR, and Full-Stack Development
-- 🏆 NCC 'B' & 'C' Certificate Holder
-- 🎯 Goal: Secure a Software Engineering Internship and Placement
+🎓 B.Tech CSE Student 
+
+💻 Passionate about Java, Web Development and AI/ML
+
+🌱 Currently learning DSA, System Design and Full Stack Development
+
+🚀 Interested in Software Development, AI Applications and Open Source
+
+📫 Reach me: your-email@example.com
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://github.com/pullayithrisha">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+</p>
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Languages
-- Java
-- Python
-- C
-- JavaScript
-- HTML
-- CSS
 
-### Frameworks & Tools
-- Flask
-- React
-- Git
-- GitHub
-- MySQL
-- VS Code
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,c,js" />
+</p>
 
-### Currently Learning
-- Advanced DSA in Java
-- System Design Basics
-- AI/ML Fundamentals
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=flask,nodejs" />
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+### Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
+</p>
 
 ---
 
-## 📌 Featured Projects
+## ⭐ Featured Projects
 
 ### 📄 Script2Doc
-OCR-powered application that converts handwritten images and PDFs into editable Word documents using TrOCR, Flask, and React.
+AI-powered OCR system that converts handwritten images and PDFs into editable Word documents.
 
-### 🎌 Anime Trivia Showdown
-Interactive anime quiz platform with timers, leaderboards, scoring, and user accounts.
-
-### 🤖 College AI Assistant
-AI-powered chatbot designed to answer college-related queries and provide instant student support.
+**Tech Stack:** Flask, React, TrOCR, OCR
 
 ---
 
+### 🎯 Anime Trivia Showdown
+Interactive anime quiz platform with timer, scoring system and leaderboards.
 
-
-## 🤝 Connect With Me
-
-- LinkedIn: (https://www.linkedin.com/in/pullayithrisha/)
-- Email:pullayithrisha@gmail.com
+**Tech Stack:** Flask, HTML, CSS, JavaScript
 
 ---
 
-⭐ Thanks for visiting my profile!
+### 🎓 College AI Assistant
+AI chatbot that answers student queries regarding academics, departments, events and college information.
+
+**Tech Stack:** Python, Flask, AI APIs
+
+---
+
+### 🏡 VillaScapes
+Modern real estate website with premium UI, animations and responsive design.
+
+**Tech Stack:** React, Tailwind CSS, Vercel
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pullayithrisha&show_icons=true&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pullayithrisha&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pullayithrisha&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=pullayithrisha&theme=tokyonight&row=1&column=7" />
+</p>
+
+---
+
+## 💡 Quote
+
+> "Consistency beats talent when talent doesn't work hard."
+
+---
