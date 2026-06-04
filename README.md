@@ -19,7 +19,7 @@
 
 🚀 Interested in Software Development, AI Applications and Open Source
 
-📫 Reach me: your-email@example.com
+📫 Reach me: pullayithrisha@gmail.com
 
 ---
 
@@ -70,35 +70,64 @@
 
 ---
 
+
 ## ⭐ Featured Projects
 
+### 🎓 AutoGrade
+An AI-powered automated grading and evaluation system that analyzes student submissions, generates marks, feedback, and performance insights.
+
+**Tech Stack:** Python, AI/ML, Flask, React
+
+**Key Features:**
+- Automatic answer evaluation
+- AI-generated feedback
+- Performance analytics
+- Teacher dashboard
+- Student result tracking
+
+---
+
 ### 📄 Script2Doc
-AI-powered OCR system that converts handwritten images and PDFs into editable Word documents.
+Converts handwritten notes, scanned documents, and PDFs into editable Word documents using OCR and AI.
 
 **Tech Stack:** Flask, React, TrOCR, OCR
+
+**Key Features:**
+- Handwritten text recognition
+- PDF processing
+- DOCX export
+- Editable output generation
+
+---
+
+
+
+### 🏡 VillaScapes
+Modern luxury real-estate platform with responsive UI and property showcase features.
+
+**Tech Stack:** React, Tailwind CSS
+
+**Key Features:**
+- Property listings
+- Advanced search
+- Responsive design
+- Interactive UI
 
 ---
 
 ### 🎯 Anime Trivia Showdown
-Interactive anime quiz platform with timer, scoring system and leaderboards.
+Interactive anime quiz platform featuring multiple anime series, leaderboards, scoring system, and timed challenges.
 
 **Tech Stack:** Flask, HTML, CSS, JavaScript
 
----
-
-### 🎓 College AI Assistant
-AI chatbot that answers student queries regarding academics, departments, events and college information.
-
-**Tech Stack:** Python, Flask, AI APIs
-
----
-
-### 🏡 VillaScapes
-Modern real estate website with premium UI, animations and responsive design.
-
-**Tech Stack:** React, Tailwind CSS, Vercel
+**Key Features:**
+- Timed quizzes
+- Score tracking
+- Leaderboards
+- Multiple anime categories
 
 ---
+
 
 ## 📊 GitHub Stats
 
