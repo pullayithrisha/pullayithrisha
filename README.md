@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pullayi Thrisha</h1>
 <h3 align="center">B.Tech CSE Student | Java Developer | Web Developer | AI Enthusiast</h3>
 
-<p align="center">
-  <a href="https://github.com/pullayithrisha">
-    <img src="https://komarev.com/ghpvc/?username=pullayithrisha&label=Profile%20Views&color=0e75b6&style=flat" />
-  </a>
-</p>
+
 
 ---
 
@@ -140,7 +136,7 @@ Interactive anime quiz platform featuring multiple anime series, leaderboards, s
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=pullayithrisha&theme=tokyonight" />
 </p>
 
----
+--- 
 
 ## 🏆 GitHub Trophies
 
