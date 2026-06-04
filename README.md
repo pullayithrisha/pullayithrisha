@@ -123,29 +123,11 @@ Interactive anime quiz platform featuring multiple anime series, leaderboards, s
 - Multiple anime categories
 
 ---
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=pullayithrisha&show_icons=true&theme=radical&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pullayithrisha&layout=compact&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=pullayithrisha&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pullayithrisha&theme=radical&no-frame=true&margin-w=15&margin-h=15" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pullayithrisha&theme=react-dark" />
-</p>
 
 
 
 ## 💡 Quote
 
-> "Consistency beats talent when talent doesn't work hard."
+> "CODE NEVER LIES, BUT COMMENTS DO"
 
 ---
