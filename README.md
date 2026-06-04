@@ -127,23 +127,11 @@ Interactive anime quiz platform featuring multiple anime series, leaderboards, s
 
 ## 📊 GitHub Stats
 
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pullayithrisha&show_icons=true&theme=tokyonight" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pullayithrisha&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pullayithrisha&theme=tokyonight" />
-</p>
-
---- 
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=pullayithrisha&theme=tokyo-night)
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=pullayithrisha&theme=tokyonight&row=1&column=7" />
-</p>
-
+<img src="https://github-profile-trophy.vercel.app/?username=pullayithrisha&theme=tokyonight&no-frame=true&row=2&column=4" />
 ---
 
 ## 💡 Quote
