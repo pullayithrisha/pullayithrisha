@@ -1,42 +1,67 @@
-# 👋 Hi, I'm P. Thrisha
+<h1 align="center">Hi 👋, I'm P. Thrisha</h1>
+<h3 align="center">B.Tech CSE Student | Java Developer | Web Developer | Aspiring Software Engineer</h3>
 
-🎓 **B.Tech 3rd Year** in **Computer Science & Engineering** at **CBIT**  
-💡 Passionate about technology, coding, and learning new things every day.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
----
+## 🚀 About Me
 
-## 🔧 Tech Stack
-
-- **Languages:** Java, Python, C, C++  
-- **Web Development:** HTML, CSS, JavaScript, React, Express, Node.js  
-- **Database:** MySQL, MongoDB  
-- **Tools:** Git, GitHub, VS Code
-
----
-
-## 🌱 Interests
-
-- Web Development  
-- Software Development  
-- Data Structures and Algorithms (DSA)  
-- Machine Learning
+- 🎓 B.Tech 3rd Year CSE Student
+- 📍 From Nirmal, Telangana, India
+- 💻 Passionate about Software Development and Problem Solving
+- 🌱 Currently learning Data Structures & Algorithms in Java
+- 🤖 Exploring AI, OCR, and Full-Stack Development
+- 🏆 NCC 'B' & 'C' Certificate Holder
+- 🎯 Goal: Secure a Software Engineering Internship and Placement
 
 ---
 
-## 🚀 Projects
+## 🛠️ Tech Stack
 
-- 📑 **[MERN Student Management System](https://studentportal-frontend.onrender.com/):** A comprehensive student management system built with the MERN stack.
-- 🎮 **[Anime Trivia Showdown](https://github.com/pullayithrisha/Anime-Trivia-Showdown):** A fun, interactive anime quiz app using Flask and JavaScript.
-- 🌤️ **[Simple Weather App](https://github.com/pullayithrisha/Simple-Weather):** A simple weather app that provides weather updates based on location.
+### Languages
+- Java
+- Python
+- C
+- JavaScript
+- HTML
+- CSS
+
+### Frameworks & Tools
+- Flask
+- React
+- Git
+- GitHub
+- MySQL
+- VS Code
+
+### Currently Learning
+- Advanced DSA in Java
+- System Design Basics
+- AI/ML Fundamentals
 
 ---
 
-## 📫 Reach Me
+## 📌 Featured Projects
 
-- [GitHub](https://github.com/pullayithrisha)  
-- [LinkedIn](https://www.linkedin.com/in/pullayithrisha/)  
-- [Email](mailto:pullayithrisha@gmail.com)
+### 📄 Script2Doc
+OCR-powered application that converts handwritten images and PDFs into editable Word documents using TrOCR, Flask, and React.
+
+### 🎌 Anime Trivia Showdown
+Interactive anime quiz platform with timers, leaderboards, scoring, and user accounts.
+
+### 🤖 College AI Assistant
+AI-powered chatbot designed to answer college-related queries and provide instant student support.
 
 ---
 
-Thanks for visiting my profile! 😊
+
+
+## 🤝 Connect With Me
+
+- LinkedIn: (https://www.linkedin.com/in/pullayithrisha/)
+- Email:pullayithrisha@gmail.com
+
+---
+
+⭐ Thanks for visiting my profile!
