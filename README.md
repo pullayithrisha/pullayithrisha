@@ -127,12 +127,14 @@ Interactive anime quiz platform featuring multiple anime series, leaderboards, s
 
 ## 📊 GitHub Stats
 
-<img src="https://streak-stats.demolab.com?user=pullayithrisha&theme=tokyonight" />
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pullayithrisha&show_icons=true&theme=radical&rank_icon=github" />
+</p>
 ## 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=pullayithrisha&theme=tokyonight&no-frame=true&row=2&column=4" />
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pullayithrisha&theme=radical&no-frame=true&margin-w=15&margin-h=15" />
+</p>
 ## 💡 Quote
 
 > "Consistency beats talent when talent doesn't work hard."
